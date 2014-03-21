@@ -1,5 +1,4 @@
-perl use MyVim
+perl use MyMooVim
 
-function MyVim_all_caps()
-    perl MyVim::all_caps()
-endfunction
+
+
